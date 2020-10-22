@@ -23,4 +23,17 @@ Algorithms used : Random Forest classifier, Naïve Bayes classifier, logistic re
 
 
 Output : Different Analysis on the review and model is tried to build which classifies the review as positive or negative reviews from the text. That is, output is 0 or 1, 0 for negative feedback and 1 for positive feedback.
+
+
+
+
+
+
+
+
+
+
+
+
+
          
